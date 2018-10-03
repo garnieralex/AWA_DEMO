@@ -17,12 +17,18 @@
       <row>
          <column_count>5</column_count>
          <on_not_found>I</on_not_found>
+         <sort_order>0</sort_order>
          <type>STATIC</type>
          <data_type>C</data_type>
          <validity_range>FREI</validity_range>
       </row>
    </variable_definitions>
    <static_values>
+      <row>
+         <client>301</client>
+         <validity_range>FREI</validity_range>
+         <key>ADMIN/AUTOMIC</key>
+      </row>
       <row>
          <client>301</client>
          <validity_range>FREI</validity_range>
