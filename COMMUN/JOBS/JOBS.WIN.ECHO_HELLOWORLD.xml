@@ -24,7 +24,7 @@
    </general_attributes>
    <scripts>
       <row>
-         <process>echo "HelloWorld"</process>
+         <process>echo "Hello everybody"</process>
       </row>
    </scripts>
    <job_attributes>
