@@ -27,6 +27,11 @@
       <row>
          <client>301</client>
          <validity_range>FREI</validity_range>
+         <key>*LOGIN*</key>
+      </row>
+      <row>
+         <client>301</client>
+         <validity_range>FREI</validity_range>
          <key>ADMIN/AUTOMIC</key>
       </row>
       <row>
